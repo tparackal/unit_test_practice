@@ -180,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/tharunparackal/.nuget/packages/": {}
+    "/home/tharun/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tharunparackal/Documents/GitHub/unit_test_practice/Calculator/Calculator.csproj",
+      "projectUniqueName": "/home/tharun/GitHub/unit_test_practice/Calculator/Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "/Users/tharunparackal/Documents/GitHub/unit_test_practice/Calculator/Calculator.csproj",
-      "packagesPath": "/Users/tharunparackal/.nuget/packages/",
-      "outputPath": "/Users/tharunparackal/Documents/GitHub/unit_test_practice/Calculator/obj/",
+      "projectPath": "/home/tharun/GitHub/unit_test_practice/Calculator/Calculator.csproj",
+      "packagesPath": "/home/tharun/.nuget/packages/",
+      "outputPath": "/home/tharun/GitHub/unit_test_practice/Calculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/tharunparackal/.nuget/NuGet/NuGet.Config"
+        "/home/tharun/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -231,7 +231,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
       }
     }
   }
