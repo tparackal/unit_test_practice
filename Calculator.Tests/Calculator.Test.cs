@@ -55,5 +55,12 @@ namespace Tests
             var result = _calculator.DecimalDivide(7.0, 2.0);
             Assert.AreEqual(result, 3.5, "7 / 2 = 3.5");
         }
+
+        [Test]
+        public void Should_Average()
+        {
+            var result = _calculator.Average(3, 7);
+            Assert.AreEqual(result, 5, "(3 + 7) / 2 = 5");
+        }
     }
 }

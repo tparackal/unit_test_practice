@@ -7,3 +7,12 @@
 /home/tharun/GitHub/unit_test_practice/Calculator/obj/Debug/netstandard2.0/Calculator.csproj.CoreCompileInputs.cache
 /home/tharun/GitHub/unit_test_practice/Calculator/obj/Debug/netstandard2.0/Calculator.dll
 /home/tharun/GitHub/unit_test_practice/Calculator/obj/Debug/netstandard2.0/Calculator.pdb
+/Users/tharunparackal/Documents/GitHub/unit_test_practice/Calculator/bin/Debug/netstandard2.0/Calculator.deps.json
+/Users/tharunparackal/Documents/GitHub/unit_test_practice/Calculator/bin/Debug/netstandard2.0/Calculator.dll
+/Users/tharunparackal/Documents/GitHub/unit_test_practice/Calculator/bin/Debug/netstandard2.0/Calculator.pdb
+/Users/tharunparackal/Documents/GitHub/unit_test_practice/Calculator/obj/Debug/netstandard2.0/Calculator.csprojAssemblyReference.cache
+/Users/tharunparackal/Documents/GitHub/unit_test_practice/Calculator/obj/Debug/netstandard2.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/tharunparackal/Documents/GitHub/unit_test_practice/Calculator/obj/Debug/netstandard2.0/Calculator.AssemblyInfoInputs.cache
+/Users/tharunparackal/Documents/GitHub/unit_test_practice/Calculator/obj/Debug/netstandard2.0/Calculator.AssemblyInfo.cs
+/Users/tharunparackal/Documents/GitHub/unit_test_practice/Calculator/obj/Debug/netstandard2.0/Calculator.dll
+/Users/tharunparackal/Documents/GitHub/unit_test_practice/Calculator/obj/Debug/netstandard2.0/Calculator.pdb

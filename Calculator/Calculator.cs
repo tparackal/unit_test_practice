@@ -39,5 +39,11 @@ namespace Services
             return a / b;
             throw new NotImplementedException("Please create a test case first.");
         }
+
+        public int Average(int a, int b)
+        {
+            return this.Add(a, b) / 2;
+            throw new NotImplementedException("This function has not been implemented.");
+        }
     }
 }

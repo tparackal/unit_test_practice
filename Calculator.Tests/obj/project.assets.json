@@ -4644,19 +4644,19 @@
     ]
   },
   "packageFolders": {
-    "/home/tharun/.nuget/packages/": {}
+    "/Users/tharunparackal/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/tharun/GitHub/unit_test_practice/Calculator.Tests/Calculator.Tests.csproj",
+      "projectUniqueName": "/Users/tharunparackal/Documents/GitHub/unit_test_practice/Calculator.Tests/Calculator.Tests.csproj",
       "projectName": "Calculator.Tests",
-      "projectPath": "/home/tharun/GitHub/unit_test_practice/Calculator.Tests/Calculator.Tests.csproj",
-      "packagesPath": "/home/tharun/.nuget/packages/",
-      "outputPath": "/home/tharun/GitHub/unit_test_practice/Calculator.Tests/obj/",
+      "projectPath": "/Users/tharunparackal/Documents/GitHub/unit_test_practice/Calculator.Tests/Calculator.Tests.csproj",
+      "packagesPath": "/Users/tharunparackal/.nuget/packages/",
+      "outputPath": "/Users/tharunparackal/Documents/GitHub/unit_test_practice/Calculator.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/tharun/.nuget/NuGet/NuGet.Config"
+        "/Users/tharunparackal/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -4667,8 +4667,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/home/tharun/GitHub/unit_test_practice/Calculator/Calculator.csproj": {
-              "projectPath": "/home/tharun/GitHub/unit_test_practice/Calculator/Calculator.csproj"
+            "/Users/tharunparackal/Documents/GitHub/unit_test_practice/Calculator/Calculator.csproj": {
+              "projectPath": "/Users/tharunparackal/Documents/GitHub/unit_test_practice/Calculator/Calculator.csproj"
             }
           }
         }
@@ -4705,18 +4705,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
       }
     }
   }
