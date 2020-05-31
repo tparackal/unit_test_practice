@@ -42,7 +42,13 @@ namespace Services
 
         public int Average(int a, int b)
         {
-            return this.Add(a, b) / 2;
+            return Divide(Add(a, b), 2);
+            throw new NotImplementedException("This function has not been implemented.");
+        }
+
+        public double DecimalAverage(double a, double b)
+        {
+            return DecimalDivide((a + b),  2);
             throw new NotImplementedException("This function has not been implemented.");
         }
     }
