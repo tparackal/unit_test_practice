@@ -69,5 +69,33 @@ namespace Tests
             var result = _calculator.DecimalAverage(3.5, 7.5);
             Assert.AreEqual(result, 5.5, "(3.5 + 7.5) / 2");
         }
+
+        [Test]
+        public void Should_DecimalPower()
+        {
+            var result = _calculator.DecimalPower(2, 3);
+            Assert.AreEqual(result, 8.0, "2^3 = 8");
+        }
+
+        [Test]
+        public void Should_Power()
+        {
+            var result = _calculator.Power(2, 3);
+            Assert.AreEqual(result, 8, "2^3 = 8");
+        }
+
+        [Test]
+        public void Should_Power0()
+        {
+            var result = _calculator.Power(5, 0);
+            Assert.AreEqual(result, 1, "5^0 = 1");
+        }
+
+        [Test]
+        public void ShouldPower1()
+        {
+            var result = _calculator.Power(5, 1);
+            Assert.AreEqual(result, 5, "5^1 = 5");
+        }
     }
 }

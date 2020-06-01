@@ -51,5 +51,32 @@ namespace Services
             return DecimalDivide((a + b),  2);
             throw new NotImplementedException("This function has not been implemented.");
         }
+
+        public double DecimalPower(double b, double exp)
+        {
+            return Math.Pow(b, exp);
+            throw new NotImplementedException("This function has not been implemented.");
+        }
+
+        public int Power(int b, int exp)
+        {
+            if(exp == 0)
+            {
+                return 1;
+            }
+
+            if(exp == 1)
+            {
+                return b;
+            }
+
+            else
+            {
+                return b * Power(b, exp - 1);
+            }
+
+            throw new NotImplementedException("This function has not been implemented.");
+        }
+
     }
 }
